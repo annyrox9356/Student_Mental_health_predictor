@@ -1,0 +1,33 @@
+{
+    "Canada": 3, "USA": 3, "Australia": 3, "UK": 3,
+    "Germany": 3, "Japan": 3, "South Korea": 3, "France": 3,
+    "Spain": 3, "Italy": 3, "Russia": 3, "Sweden": 3,
+    "Norway": 3, "Denmark": 3, "Netherlands": 3, "Belgium": 3,
+    "Switzerland": 3, "Austria": 3, "Portugal": 3, "Greece": 3,
+    "Ireland": 3, "New Zealand": 3, "Singapore": 3, "Malaysia": 3,
+    "Taiwan": 3, "Hong Kong": 3, "Turkey": 3, "Israel": 3,
+    "UAE": 3, "Argentina": 3, "Chile": 3, "Uruguay": 3,
+    "Costa Rica": 3, "Panama": 3, "Bahamas": 3, "Iceland": 3,
+    "Finland": 3, "Poland": 3, "Romania": 3, "Hungary": 3,
+    "Czech Republic": 3, "Slovakia": 3, "Croatia": 3, "Serbia": 3,
+    "Slovenia": 3, "Bulgaria": 3, "Estonia": 3, "Latvia": 3,
+    "Lithuania": 3, "Belarus": 3, "Kazakhstan": 3, "Armenia": 3,
+    "Georgia": 3, "Cyprus": 3, "Malta": 3, "Luxembourg": 3,
+    "Monaco": 3, "Andorra": 3, "San Marino": 3, "Vatican City": 3,
+    "Liechtenstein": 3, "Montenegro": 3, "Albania": 3,
+    "North Macedonia": 3, "Qatar": 3, "Kuwait": 3, "Bahrain": 3,
+    "Oman": 3, "Trinidad": 3,
+
+    "India": 2, "Bangladesh": 2, "Brazil": 2, "Mexico": 2,
+    "China": 2, "Thailand": 2, "Vietnam": 2, "Philippines": 2,
+    "Indonesia": 2, "Egypt": 2, "Morocco": 2, "South Africa": 2,
+    "Kenya": 2, "Ghana": 2, "Colombia": 2, "Peru": 2,
+    "Venezuela": 2, "Ecuador": 2, "Paraguay": 2, "Bolivia": 2,
+    "Jamaica": 2, "Ukraine": 2, "Moldova": 2, "Uzbekistan": 2,
+    "Kyrgyzstan": 2, "Tajikistan": 2, "Azerbaijan": 2, "Kosovo": 2,
+    "Bosnia": 2, "Jordan": 2, "Lebanon": 2, "Iraq": 2,
+    "Nepal": 2, "Bhutan": 2, "Sri Lanka": 2, "Maldives": 2,
+
+    "Nigeria": 1, "Yemen": 1, "Syria": 1, "Afghanistan": 1,
+    "Pakistan": 1
+}
