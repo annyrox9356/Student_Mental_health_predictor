@@ -4,7 +4,7 @@ from typing import Annotated,Literal
 class Data_validator(BaseModel):
     Age:Annotated[int,Field(gt=0,lt=120,description="enter your age" ,examples=[18,34])]
     Gender:Annotated[Literal['Male','Female'],Field(description="choose either Male or Female",examples=['Male','Female'])]
-    Country:Annotated[str,Field(description="enter the country you live in",examples=['Mumbai','Delhi','Pune'])]
+    Country:Annotated[str,Field(description="enter the country you live in",examples=['India','USA','Morocco'])]
     Academic_Level:Annotated[str,Field(description="Enter your education level",examples=["Undergraduate"])]
     Most_Used_Platform:Annotated[str,Field(description="which plateform do you use most",examples=['Facebook','Instagram','LinkedIn'])]
     Purpose_Of_Use:Annotated[Literal['Networking','Education','Entertainment','News'],Field(description="enter the purpose of use of the plateform",examples=['Entertainment','News'])]
