@@ -14,7 +14,7 @@ def transfer_data(data:Data_validator):
         encoded_data=infer.encode_data(data)
         prediction=infer.run_model(encoded_data)
         return{
-            "predicted mental health score":prediction
+            "predicted_mental_health_score":prediction
         }
 
     except Exception as e:
