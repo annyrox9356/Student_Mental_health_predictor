@@ -49,7 +49,7 @@ if st.button("Predict Mental Health Score", type="primary"):
     }
     
     # 2. FastAPI ka local URL (Dhyan rakhein ki background me FastAPI chal raha ho)
-    api_url = "http://127.0.0.1:8000/predict"
+    api_url = "http://backend:8000/predict"
     
     try:
         with st.spinner("Analyzing data through XGBoost pipeline..."):

@@ -1,0 +1,24 @@
+version: '3.8'
+
+services:
+  backend:
+    image: annyroxx/student-mental-health-api:latest
+    container_name: mental-health-api
+    ports:
+      - "8000:8000"
+    networks:
+      - ml-network
+
+  frontend:
+    image: annyroxx/mental-health-frontend:v2
+    container_name: mental-health-ui
+    ports:
+      - "8501:8501"
+    depends_on:
+      - backend
+    networks:
+      - ml-network
+
+networks:
+  ml-network:
+    driver: bridge
