@@ -8,7 +8,7 @@ def run_pipeline():
     # --- 1. PREPROCESSING STAGE ---
     print("\n[1/4] Initializing Preprocessor and Loading Data...")
     # Dhyan rakhein ki dataset aur JSON config ka correct path dein
-    processor = Preprocess(filename=r'data\data.csv', json_name=r'config\country_tiers.json')
+    processor = Preprocess(filename='data/data.csv', json_name='config/country_tiers.json')
     
     processor.load_data()
     print("Data loaded and categorical columns mapped/encoded.")
