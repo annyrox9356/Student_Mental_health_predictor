@@ -1,0 +1,21 @@
+model_training/
+frontend/
+data/
+
+# Python cache files 
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Git and CI/CD files 
+.git/
+.github/
+.gitignore
+
+# Virtual Environments 
+venv/
+env/
+.venv/
+
+# Documentation files
+README.md
