@@ -37,7 +37,7 @@ This is the easiest and most reliable way to run the full-stack project in an is
 
 **Step 1: Clone this repository and navigate into the folder**
 ```bash
-git clone [https://github.com/annyrox9356/Student_Mental_health_predictor.git](https://github.com/annyrox9356/Student_Mental_health_predictor.git)
+git clone https://github.com/annyrox9356/Student_Mental_health_predictor.git
 cd Student_Mental_health_predictor
 ```
 
