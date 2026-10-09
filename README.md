@@ -63,7 +63,7 @@ Use this method if you want to test code changes locally without rebuilding Dock
 
 **Step 1: Clone this repository and navigate into it**
 ```bash
-git clone [https://github.com/annyrox9356/Student_Mental_health_predictor.git](https://github.com/annyrox9356/Student_Mental_health_predictor.git)
+git clone https://github.com/annyrox9356/Student_Mental_health_predictor.git
 cd Student_Mental_health_predictor
 ```
 
