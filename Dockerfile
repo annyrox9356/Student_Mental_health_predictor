@@ -8,6 +8,7 @@ RUN pip install --no-cache-dir -r requirements.txt
 
 COPY ./artifacts ./artifacts
 COPY ./api ./api
+COPY ./config ./config
 
 EXPOSE 8000
 
