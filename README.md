@@ -1,6 +1,6 @@
 # Student Mental Health Predictor API 🧠💻
 
-![MLOps Pipeline Architecture](assets/architecture.jpg)
+![MLOps Pipeline Architecture](assets/architecture.png)
 
 An end-to-end Machine Learning pipeline, RESTful API, and interactive Web UI designed to predict the mental health scores of students based on their academic pressure, digital lifestyle, and demographic factors.
 
